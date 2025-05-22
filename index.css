@@ -5,6 +5,34 @@ background-attachment: fixed;
 color: rgb(0, 0, 0);
 }
 
+section {
+    background: gray;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.164);
+}
+
+#titulo {
+    text-align: center;
+}
+
+#saudacao {
+    text-align: center;
+}
+
+#botCadastro { 
+    background-color: None;
+    text-align: center;
+    font: normal 15pt arial;
+
+}
+
 #but {
     background-color: rgb(255, 127, 133);
+}
+
+#procura {
+    background-color: skyblue;
 }

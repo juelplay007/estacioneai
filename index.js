@@ -1,6 +1,13 @@
-/*let Estacionamento = Text 
-prompt ("Qual lugar você quer mapear")*/
 function cadastro() {
-    b1 = document.getElementById("but")
-    b1.innerHTML = "Validação efetuada com sucesso" 
+    var b1 = document.getElementById("botCadastro");
+    b1.innerHTML = "Cadastro efetuado com sucesso";
+}
+
+
+
+
+
+function procura() {
+    var b2 = document.getElementById("botCadastro");
+    b2.innerHTML = "Procurando...";
 }
