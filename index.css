@@ -31,8 +31,25 @@ section {
 
 #but {
     background-color: rgb(255, 127, 133);
+    display: block;
+    margin: 10px auto;
 }
 
 #procura {
     background-color: skyblue;
+    display: block;
+    margin: 10px auto;
+}
+
+#CadastroUsuario {
+    display: block;
+    background-color: green;
+    margin: 10px auto;
+}
+
+#Login {
+    background-color: yellow;
+    display: block;
+    margin: 10px auto;
+    padding: 30 px 60 px;
 }
